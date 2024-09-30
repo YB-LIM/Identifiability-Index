@@ -10,5 +10,5 @@ CONTACT: lyb0684@naver.com
 ![image](https://github.com/user-attachments/assets/ae87e9a4-a591-4848-bd4f-4581a757648c) <br><br>
 ![image](https://github.com/user-attachments/assets/e476f968-b574-4c0d-97db-0fc0c98d12f1) <br><br>
 ![image](https://github.com/user-attachments/assets/50d08c93-0056-41cd-9753-613a749dd946) <br><br>
-![image](https://github.com/user-attachments/assets/455e813d-9752-443d-9e50-9d02b0b792b7) <br><br>
+![image](https://github.com/user-attachments/assets/535e1129-b074-43f4-b638-482b02cb0564) <br><br>
 
