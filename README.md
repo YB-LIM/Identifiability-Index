@@ -4,6 +4,9 @@ AUTHOR: Youngbin LIM <br>
 CONTACT: lyb0684@naver.com
 
 # Description
+I-index_DOE: Generates DOE matrix for the perturbation of objective function <br>
+I-index_Calc: Calculates I-index based on objective function values. You should provide list of perturbed objective function values as W_Values.txt <br>
+
 ![image](https://github.com/user-attachments/assets/e1c3ac9a-7e1a-4332-b206-bbee4fd9a5f1) <br><br>
 ![image](https://github.com/user-attachments/assets/d8822ff8-64c1-4bfa-a4e0-be286db7cb58) <br><br>
 ![image](https://github.com/user-attachments/assets/0141c1af-ccc5-45d2-ad9b-df5e1f04b980) <br><br>
